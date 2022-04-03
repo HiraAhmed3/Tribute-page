@@ -1,0 +1,21 @@
+body {
+    margin-top : 40px;
+}
+.list{
+ display:inline-block;
+ text-align:left;
+list-style:none;
+ font-size:14px;
+ margin-left:20%;
+ text-align:left;
+}
+li{
+    list-style: none;
+}
+#header {
+ text-align: left;
+ margin-left: 16%;
+}
+p{
+    text-align: center;
+}
